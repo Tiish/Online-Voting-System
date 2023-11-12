@@ -1,5 +1,4 @@
 # Online-Voting-System
-# Online Voting System
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
